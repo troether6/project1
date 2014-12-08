@@ -1,0 +1,12 @@
+Sample Page for Git tutorial
+
+file in project1
+
+
+Investigatam diutissime quaestionem, quantum nostrae mentis igniculum lux diuina dignata est, formatam rationibus litterisque mandatam offerendam uobis communicandamque curaui tam uestri cupidus iudicii quam nostri studiosus inuenti.  
+
+Qua in re quid mihi sit animi quotiens stilo cogitata commendo, tum ex ipsa materiae difficultate tum ex eo quod raris id est uobis tantum conloquor, intellegi potest. Neque enim famae iactatione et inanibus uulgi clamoribus excitamur; sed si quis est fructus exterior, hic non potest aliam nisi materiae similem sperare sententiam.  
+
+Quocumque igitur a uobis deieci oculos, partim ignaua segnities partim callidus liuor occurrit, ut contumeliam uideatur diuinis tractatibus inrogare qui talibus hominum monstris non agnoscenda haec potius quam proculcanda proiecerit.  
+
+Idcirco stilum breuitate contraho et ex intimis sumpta philosophiae disciplinis nouorum uerborum significationibus uelo, ut haec mihi tantum uobisque, si quando ad ea conuertitis oculos, conloquantur; ceteros uero ita submouimus, ut qui capere intellectu nequiuerint ad ea etiam
